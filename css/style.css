@@ -1,21 +1,30 @@
+html {
+  box-sizing: border-box;
+}
 body {
   margin-top: 50px;
 }
 .container {
-  background-color: yellow;
   max-width: 980px;
-  height: 35px;
   margin: 0 auto;
   width: 90%;
+}
+nav {
+  background-color: #242424;
 }
 nav ul {
   display: flex;
   text-transform: uppercase;
 }
+nav ul li {
+  display: flex;
+}
 nav ul li a {
-  background-color: red;
-  padding: 20px;
+  padding: 12px 12px 10px 12px;
   color: white;
+  text-decoration: none;
+  margin-right: 1px;
+  background-color: #363636;
 }
 nav ul li a:hover {
   color: #7dadd1;
