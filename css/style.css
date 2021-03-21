@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 html {
   box-sizing: border-box;
 }
@@ -10,6 +11,7 @@ body {
   width: 90%;
 }
 nav {
+  font-family: 'Bebas Neue', cursive;
   background-color: #242424;
 }
 nav ul {
