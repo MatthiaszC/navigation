@@ -13,6 +13,7 @@ body {
 nav {
   font-family: 'Bebas Neue', cursive;
   background-color: #242424;
+  font-size: 18px;
 }
 nav ul {
   display: flex;
