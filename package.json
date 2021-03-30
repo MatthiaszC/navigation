@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "surge . navigation.surge.sh",
+    "deploy": "surge . navcelis.surge.sh",
     "start": "live-server"
   },
   "keywords": [],
